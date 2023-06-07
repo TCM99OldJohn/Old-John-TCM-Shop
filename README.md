@@ -8,13 +8,14 @@
 
 <p align="center">
     <a title="github" target="_blank" href="https://github.com/TCM99OldJohn"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DTCM99OldJohn&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
-    <a title="bilibili" target="_blank" href="https://space.bilibili.com/1706646554"><img src="https://img.shields.io/badge/dynamic/json?color=353940&labelColor=f27596&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D1706646554&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc/pXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8/S9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK/mKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR/RwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I/wcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I/w+lgDkdI/v2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3/BBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC/A8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu/ZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U/H50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F/SS/9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL/L9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td/Tvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC/osSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5/SAXmdfXaoQsAAAAASUVORK5CYII=&longCache=true" ></a>
 </p
 
 <h1 align="center">“故曰：知其要者，一言而終，不知其要，流散無窮，此之謂也。”</h1>
 
 
-<img width="645" height="377" src="https://pixabay.com/get/g23a72d60a107a62efc062c3d7456b9a7f130b421452f510405566e573c79991d796deaeb4b1467f9ffc13394df00054087ba7a187afa4860cc25cbfc45c7f7f5ce493ca9e1c9b4327fe60449f6095bbf_640.jpg?attachment="/>
+<p align="center">
+<img decoding="async" src="https://github.com/TCM99OldJohn/Old-John-TCM-Shop/blob/main/chinese-medicine-2178253_640.jpg" width="100%">  
+</p>
 
 
 ## 📖 写在前面 (ง ˙o˙)ว
@@ -49,7 +50,10 @@
 
 **所以中医，它还是传统的样子。**
 
-<img width="645" height="323" src="https://pixabay.com/get/gebb9f2c0adde5d17c8e5886b39209517b152ef01ecd704e0f3e5580095bdfa8b2ddc08dcb3f590b0746b1500bf47948821e01bee297040549ed76839d20aca6f08cfee668a84d838ce4c1e86921a28d0_640.jpg?attachment="/>
+<p align="center">
+<img decoding="async" src="https://github.com/TCM99OldJohn/Old-John-TCM-Shop/blob/main/chinese-medicine-3666189_640.jpg" width="100%">  
+</p>
+
 
 **那么，我们当代人在学习中医的过程中，因为我们跟传统之间的这个隔阂，使得我们学习有困难。**
 
@@ -145,17 +149,6 @@
 <img decoding="async" src="https://images.unsplash.com/photo-1537201872643-ff006e1f016f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=mona-mok-wx4A5w85Sm8-unsplash.jpg&w=640" width="90%">  
 </p>
 
-
-## 🥱 内容多为AI生成，我下次有机会更新
-
-- ChatGPT说以上内容来自：
-	-  [中医是真的不好学啊！](https://mp.weixin.qq.com/s/_MhyD2-EEF7oVOcf2Mysrw)
-	-  [购买书籍《1264临证法中医临床基本功》](https://www.google.com/search?q=%E4%B8%AD%E5%8C%BB%E4%B8%B4%E5%BA%8A%E5%9F%BA%E6%9C%AC%E5%8A%9F&ie=UTF-8)
- 
-<img width="645" height="350" src="https://pixabay.com/get/g0f797717de36e649b7d6b862fa9141cb7d5bde302ea66d6ad804ccc1cea0fd8680341bae225c616b58671fa1fc27257b4697f764e9630e962e4a1f6b70e64340ea9e0d6cd60a52b6f9a0de2542852693_640.jpg?attachment="/>
-
-
-
 ## 😶‍关于传统文化，小声逼逼
 
 学习中医要学习传统文化，其实传统文化和中医没有什么必然联系，它只是中医产生的一个土壤。
@@ -163,17 +156,19 @@
 如果你是感兴趣传统文化，你学它当然没有问题。如果你只感兴趣中医，你只想提高临床疗效，还是来点实在的。
 
 
-# 🦄 
+- ChatGPT说以上内容来自：
+	-  [中医是真的不好学啊！](https://mp.weixin.qq.com/s/_MhyD2-EEF7oVOcf2Mysrw)
+	-  [购买书籍《1264临证法中医临床基本功》](https://www.google.com/search?q=%E4%B8%AD%E5%8C%BB%E4%B8%B4%E5%BA%8A%E5%9F%BA%E6%9C%AC%E5%8A%9F&ie=UTF-8)
+ 
+
+
+
+# 🦄  🌩️🌨️🌨️🌧️🌌🌍🌎🌏🐊🦣🪽🐋🦠🪲🐞🍒🍇🥥🍗🍖🧀🌯🌮🥗🥣🥫🫕🍥🥮🍭🧁🍫🍩🍬🍪🍯🧊🫙🧂🥛🧉🥂🥄🔪🛑🚨🛞🛟🧭🩼⚓🎠🗾🗺️🌐🛤️🛣️🌁🧳🎊🧨🧧🪅🪩🥅🛹🏹🥏🪃🪁🎣🤿🩱🥋📸🖼️🖍️🪡🪈🪗🎚️📽️🎙️🎞️🎭🎟️📹📞📟🔌🔋🖲️🖥️🖥️⌨️🖨️⌨️🖱️🪙💸🧾🧮💳⚖️💸💵🧱🪞🧸🪠🧻🧽🧴🛁🛋️🪢🪑🧷🧼🪥🪮🎽👚🧺🧦🧤🧣👖🩳⛑️🥻👝🧳👛🩹🕶️👓🥽🧬🔭🔬🛰️🧯🪓🪚🪝🪜🧰🪣🔧🪛🩻⚒️🛠️⚙️⛓️⚙️📏🖇️🔧📚🖌️✏️📔📘📕📑🗒️📄📋📈📊🗄️📉📇🪪📂📗📘📙📒📔📕🔖🗂️🗃️📌📍️🪪🗑️📰🗞️🏷️📦📪✉️📧📬📭📨💌📤📥🗳️📿📜⚔️🗡️🛡️🔏🔐☯️☯️️️️️◻️▫️👁️‍🗨️
 
 
 
 
-# 🌩️🌨️🌨️🌧️🌌🌍🌎🌏🐊🦣🪽🐋🦠🪲🐞🍒🍇🥥🍗🍖🧀🌯🌮🥗🥣🥫🫕🍥🥮🍭🧁🍫🍩🍬🍪🍯🧊🫙🧂🥛🧉🥂🥄🔪🛑🚨🛞🛟🧭🩼⚓🎠🗾🗺️🌐🛤️🛣️🌁🧳🎊🧨🧧🪅🪩🥅🛹🏹🥏🪃🪁🎣🤿🩱🥋📸🖼️🖍️🪡🪈🪗🎚️📽️🎙️🎞️🎭🎟️📹📞📟🔌🔋🖲️🖥️🖥️⌨️🖨️⌨️🖱️🪙💸🧾🧮💳⚖️💸💵🧱🪞🧸🪠🧻🧽🧴🛁🛋️🪢🪑🧷🧼🪥🪮🎽👚🧺🧦🧤🧣👖🩳⛑️🥻👝🧳👛🩹🕶️👓🥽🧬🔭🔬🛰️🧯🪓🪚🪝🪜🧰🪣🔧🪛🩻⚒️🛠️⚙️⛓️⚙️📏🖇️🔧📚🖌️✏️📔📘📕📑🗒️📄📋📈📊🗄️📉📇🪪📂📗📘📙📒📔📕🔖🗂️🗃️📌📍️🪪🗑️📰🗞️🏷️📦📪✉️📧📬📭📨💌📤📥🗳️📿📜⚔️🗡️🛡️🔏🔐☯️☯️️️️️◻️▫️👁️‍🗨️
-
-
-
-
-
+## 🥱 内容为AI生成，我下次有机会更新
 ---
 
 ## 👉哔哩哔哩用户及资源推荐
@@ -213,11 +208,10 @@
   - [《中基教材 改错（bushi）补课 第一讲》](https://www.bilibili.com/video/BV1vY4y1q74h)
   - [《中基教材 改错（bushi）补课 第二讲》](https://www.bilibili.com/video/BV1N44y1K7aL)
   - [《中基教材 改错（bushi）补课 第三讲》](https://www.bilibili.com/video/BV1au411v786)
-  - [中医脉诊补课（上）](https://www.bilibili.com/video/BV1Zr4y1t7oD)
-  - [中医脉诊补课（下）](https://www.bilibili.com/video/BV1RT4y1B78L)
 
 ---
 
+<h1 align="center"> 轻易就得到的东西，人们不会太珍惜。没有经过必要历练，心性必然浮躁。</h1>
 
 <p align="center">
 <img decoding="async" src="https://images.unsplash.com/photo-1583466478015-2dce6bf2f551?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=leon-gao-ooX-lfJqzhE-unsplash.jpg&w=640" width="90%">  
@@ -231,7 +225,7 @@
 
 这里提供<a href="https://github.com/TCM99OldJohn/TCM-Traditional-Chinese-medicine" target="_blank">158套中医视频以及376套中医丛书（全4319册）</a>。视频资源包含国内知名高校中医课程视频、央视等传统医学纪录片，书籍资源包括《黄帝内经》、《伤寒杂病论》、《针灸大成》等中医经典及相关学术著作等。 相信它们对正在进行相关学习、研究的人士会有所帮助。
 
-<b>声明：本项目所有内容均搜集于网络，并非本人上传。</b>
+<b>声明：所有内容均搜集于网络，并非本人上传。</b>
 
 ---
 
