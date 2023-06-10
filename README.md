@@ -20,7 +20,8 @@
 
 ## 📖 写在前面 (ง ˙o˙)ว
 
-**这个项目的目的是，帮中医学习者降低学习中医的台阶**
+**1. 所以内容都不是本人原创，侵删**
+**2. 这个项目的目的是，帮中医学习者降低学习中医的台阶**
 
 ## 📚入门中医的捷径是什么？
 
@@ -119,8 +120,9 @@
 
 有了模型，你和“中医”之间做了个接口，有了这样一个接口，你直接用这个模型去对照古书，就会发现古书上的描述其实就是**生理模型、病理模型、药理模型。**
 
-<img width="645" height="366" src="https://images.unsplash.com/photo-1583466478015-2dce6bf2f551?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=leon-gao-ooX-lfJqzhE-unsplash.jpg&w=640"/>
-
+<p align="center">
+<img decoding="async" src="https://images.unsplash.com/photo-1583466478015-2dce6bf2f551?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=leon-gao-ooX-lfJqzhE-unsplash.jpg&w=640" width="90%">  
+</p>
 
 **第三关是方药关**
 
@@ -155,27 +157,30 @@
 
 如果你是感兴趣传统文化，你学它当然没有问题。如果你只感兴趣中医，你只想提高临床疗效，还是来点实在的。
 
+像倪海厦那样的牛人，始终还是少数的。
+
 
 - ChatGPT说以上内容来自：
 	-  [中医是真的不好学啊！](https://mp.weixin.qq.com/s/_MhyD2-EEF7oVOcf2Mysrw)
 	-  [购买书籍《1264临证法中医临床基本功》](https://www.google.com/search?q=%E4%B8%AD%E5%8C%BB%E4%B8%B4%E5%BA%8A%E5%9F%BA%E6%9C%AC%E5%8A%9F&ie=UTF-8)
  
 
-
-
-# 🦄  🌩️🌨️🌨️🌧️🌌🌍🌎🌏🐊🦣🪽🐋🦠🪲🐞🍒🍇🥥🍗🍖🧀🌯🌮🥗🥣🥫🫕🍥🥮🍭🧁🍫🍩🍬🍪🍯🧊🫙🧂🥛🧉🥂🥄🔪🛑🚨🛞🛟🧭🩼⚓🎠🗾🗺️🌐🛤️🛣️🌁🧳🎊🧨🧧🪅🪩🥅🛹🏹🥏🪃🪁🎣🤿🩱🥋📸🖼️🖍️🪡🪈🪗🎚️📽️🎙️🎞️🎭🎟️📹📞📟🔌🔋🖲️🖥️🖥️⌨️🖨️⌨️🖱️🪙💸🧾🧮💳⚖️💸💵🧱🪞🧸🪠🧻🧽🧴🛁🛋️🪢🪑🧷🧼🪥🪮🎽👚🧺🧦🧤🧣👖🩳⛑️🥻👝🧳👛🩹🕶️👓🥽🧬🔭🔬🛰️🧯🪓🪚🪝🪜🧰🪣🔧🪛🩻⚒️🛠️⚙️⛓️⚙️📏🖇️🔧📚🖌️✏️📔📘📕📑🗒️📄📋📈📊🗄️📉📇🪪📂📗📘📙📒📔📕🔖🗂️🗃️📌📍️🪪🗑️📰🗞️🏷️📦📪✉️📧📬📭📨💌📤📥🗳️📿📜⚔️🗡️🛡️🔏🔐☯️☯️️️️️◻️▫️👁️‍🗨️
-
-
-
-
 ## 🥱 内容为AI生成，我下次有机会更新
+
 ---
 
-## 👉哔哩哔哩用户及资源推荐
+# 🦄🌩️🌨️🌨️🌧️🌌🌍🌎🌏🐊🦣🪽🐋🦠🪲🐞🍒🍇🥥🍗🍖🧀🌯🌮🥗🥣🥫🫕🍥🥮🍭🧁🍫🍩🍬🍪🍯🧊🫙🧂🥛🧉🥂🥄🔪🛑🚨🛞🛟🧭🩼⚓🎠🗾🗺️🌐🛤️🛣️🌁🧳🎊🧨🧧🪅🪩🥅🛹🏹🥏🪃🪁🎣🤿🩱🥋📸🖼️🖍️🪡🪈🪗🎚️📽️🎙️🎞️🎭🎟️📹📞📟🔌🔋🖲️🖥️🖥️⌨️🖨️⌨️🖱️🪙💸🧾🧮💳⚖️💸💵🧱🪞🧸🪠🧻🧽🧴🛁🛋️🪢🪑🧷🧼🪥🪮🎽👚🧺🧦🧤🧣👖🩳⛑️🥻👝🧳👛🩹🕶️👓🥽🧬🔭🔬🛰️🧯🪓🪚🪝🪜🧰🪣🔧🪛🩻⚒️🛠️⚙️⛓️⚙️📏🖇️🔧📚🖌️✏️📔📘📕📑🗒️📄📋📈📊🗄️📉📇🪪📂📗📘📙📒📔📕🔖🗂️🗃️📌📍️🪪🗑️📰🗞️🏷️📦📪✉️📧📬📭📨💌📤📥🗳️📿📜⚔️🗡️🛡️🔏🔐☯️☯️️️️️◻️▫️👁️‍🗨️
+
+
+
+
+<h1 align="center"> 哔哩哔哩用户及资源推荐👇</h1>
+
+### 这些推荐的东西不一定适合大家哦
 
 - ID：中医朱小宝
 <a title="bilibili" target="_blank" href="https://space.bilibili.com/175555343"><img src="https://img.shields.io/badge/dynamic/json?color=353940&labelColor=f27596&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D175555343&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc/pXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8/S9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK/mKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR/RwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I/wcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I/w+lgDkdI/v2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3/BBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC/A8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu/ZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U/H50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F/SS/9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL/L9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td/Tvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC/osSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5/SAXmdfXaoQsAAAAASUVORK5CYII=&longCache=true" ></a>
-  - 介绍: & 王府井同仁堂中医院特聘专家 真专家 有东西
+  - 介绍: 家传中医 & 张缙弟子 & 王府井同仁堂中医院特聘专家 真专家 有东西
 - Project
   - [小宝谈药](https://space.bilibili.com/175555343/channel/seriesdetail?sid=1949798)
   - [小宝说脉](https://space.bilibili.com/175555343/channel/seriesdetail?sid=1932862)
@@ -183,21 +188,19 @@
 
 ---
 
-- ID：洛小医
-<a title="bilibili" target="_blank" href="https://space.bilibili.com/1792554721"><img src="https://img.shields.io/badge/dynamic/json?color=353940&labelColor=f27596&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D1792554721&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc/pXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8/S9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK/mKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR/RwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I/wcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I/w+lgDkdI/v2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3/BBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC/A8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu/ZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U/H50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F/SS/9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL/L9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td/Tvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC/osSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5/SAXmdfXaoQsAAAAASUVORK5CYII=&longCache=true" ></a>
-  - 介绍: 针灸学习 & 有点东西
+- ID：陈小园修经方
+<a title="bilibili" target="_blank" href="https://space.bilibili.com/381890930"><img src="https://img.shields.io/badge/dynamic/json?color=353940&labelColor=f27596&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D381890930&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc/pXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8/S9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK/mKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR/RwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I/wcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I/w+lgDkdI/v2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3/BBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC/A8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu/ZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U/H50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F/SS/9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL/L9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td/Tvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC/osSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5/SAXmdfXaoQsAAAAASUVORK5CYII=&longCache=true" ></a>
+  - 介绍: 伤寒论学习（以胡希恕老为主）
 - Project
-  - [针灸基础系列](https://space.bilibili.com/1792554721/channel/collectiondetail?sid=1094462)
-  - [针灸飞针系列](https://space.bilibili.com/1792554721/channel/collectiondetail?sid=1094450)
+  - [第189条胡希恕《伤寒论》，阳明中风](https://www.bilibili.com/video/BV15x4y1P7tM/)
 
 ---
 
-- ID：有梦想的小熊猫
-<a title="bilibili" target="_blank" href="https://space.bilibili.com/130103696"><img src="https://img.shields.io/badge/dynamic/json?color=353940&labelColor=f27596&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D130103696&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc/pXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8/S9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK/mKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR/RwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I/wcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I/w+lgDkdI/v2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3/BBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC/A8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu/ZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U/H50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F/SS/9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL/L9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td/Tvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC/osSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5/SAXmdfXaoQsAAAAASUVORK5CYII=&longCache=true" ></a>
-  - 介绍: 中医考研 & 运气学说
+- ID：玩针灸的邢俗仁
+<a title="bilibili" target="_blank" href="https://space.bilibili.com/502139219"><img src="https://img.shields.io/badge/dynamic/json?color=353940&labelColor=f27596&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D502139219&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc/pXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8/S9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK/mKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR/RwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I/wcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I/w+lgDkdI/v2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3/BBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC/A8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu/ZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U/H50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F/SS/9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL/L9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td/Tvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC/osSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5/SAXmdfXaoQsAAAAASUVORK5CYII=&longCache=true" ></a>
+  - 介绍: 北中医老哥
 - Project
-  - [中医考研：中内歌诀](https://www.bilibili.com/read/cv10404397)
-  - [中医考研：中医诊断学](https://space.bilibili.com/130103696/channel/collectiondetail?sid=1191170)
+  - [针灸临床得失录 by邢俗仁](https://www.bilibili.com/video/BV1JX4y117L8/)
 
 ---
 
@@ -211,7 +214,24 @@
 
 ---
 
-<h1 align="center"> 轻易就得到的东西，人们不会太珍惜。没有经过必要历练，心性必然浮躁。</h1>
+- ID：老史努哔
+<a title="bilibili" target="_blank" href="https://space.bilibili.com/397739412"><img src="https://img.shields.io/badge/dynamic/json?color=353940&labelColor=f27596&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D397739412&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc/pXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8/S9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK/mKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR/RwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I/wcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I/w+lgDkdI/v2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3/BBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC/A8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu/ZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U/H50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F/SS/9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL/L9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td/Tvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC/osSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5/SAXmdfXaoQsAAAAASUVORK5CYII=&longCache=true" ></a>
+  - 介绍: 为人谦逊的国医弟子，济世读书的临床大夫
+- Project
+  - [师傅！~这样降糖别人不会打咱们吧？~~~](https://www.bilibili.com/video/BV19Y4y1r7TY/)
+  - [针灸手法](https://space.bilibili.com/397739412/channel/seriesdetail?sid=455120)
+  - https://space.bilibili.com/688620005
+---
+
+- ID：史大夫话康复
+<a title="bilibili" target="_blank" href="https://space.bilibili.com/688620005"><img src="https://img.shields.io/badge/dynamic/json?color=353940&labelColor=f27596&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D688620005&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc/pXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8/S9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK/mKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR/RwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I/wcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I/w+lgDkdI/v2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3/BBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC/A8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu/ZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U/H50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F/SS/9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL/L9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td/Tvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC/osSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5/SAXmdfXaoQsAAAAASUVORK5CYII=&longCache=true" ></a>
+  - 介绍: 适合医院里的康复科、针灸科同行
+- Project
+  - [合集·腰腿痛病案分析，临床诊疗思路与康复策略](https://space.bilibili.com/688620005/channel/collectiondetail?sid=40606)
+
+
+<h1 align="center"> 轻易就得到的东西，人们不会太珍惜。</h1>
+<h1 align="center"> 没有经过必要历练，心性必然浮躁。</h1>
 
 <p align="center">
 <img decoding="async" src="https://images.unsplash.com/photo-1583466478015-2dce6bf2f551?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=leon-gao-ooX-lfJqzhE-unsplash.jpg&w=640" width="90%">  
@@ -223,7 +243,7 @@
 
 
 
-这里提供<a href="https://github.com/TCM99OldJohn/TCM-Traditional-Chinese-medicine" target="_blank">158套中医视频以及376套中医丛书（全4319册）</a>。视频资源包含国内知名高校中医课程视频、央视等传统医学纪录片，书籍资源包括《黄帝内经》、《伤寒杂病论》、《针灸大成》等中医经典及相关学术著作等。 相信它们对正在进行相关学习、研究的人士会有所帮助。
+这里提供<a href="https://github.com/TCM99OldJohn/TCM-Traditional-Chinese-medicine" target="_blank">158套中医视频以及376套中医丛书（全4319册）</a>。视频资源包含国内知名高校中医课程视频、央视等传统医学纪录片，书籍资源包括《伤寒杂病论》、《针灸大成》、《医宗金鉴》等中医经典及相关学术著作等。 相信它们对正在进行相关学习、研究的人士会有所帮助。
 
 <b>声明：所有内容均搜集于网络，并非本人上传。</b>
 
