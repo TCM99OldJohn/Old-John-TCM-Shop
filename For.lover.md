@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=80&duration=6000&pause=800&color=36F73C&center=true&vCenter=true&random=false&width=320&height=102&lines=%E8%B5%9B%E5%8D%9A%E7%BB%8F%E6%96%B9" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Simplified+Chinese+&weight=900&size=68&pause=1000&center=true%C2%A0%E7%9C%9F&vCenter=true%C2%A0%E7%9C%9F&repeat=true%C2%A0%E7%9C%9F&random=true%C2%A0%E7%9C%9F&width=451&height=126&lines=%E8%AF%B8%E9%83%A8%E7%A6%81%E6%96%B9" alt="Typing SVG" /></a>
 </a>
 </p>
 
@@ -65,9 +65,8 @@
 就像要把一篇散文变成一篇说明文，这不是替换一些词就能完成的，这是一种文学逻辑上的不同。
 
 <p align="center">
-<img decoding="async" src="https://github.com/TCM99OldJohn/Old-John-TCM-Shop/blob/main/chinese-medicine-3666189_640.jpg" width="70%">  
+<img decoding="async" src="https://images.unsplash.com/photo-1583466478015-2dce6bf2f551?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=leon-gao-ooX-lfJqzhE-unsplash.jpg&w=640" width="60%">  
 </p>
-
 
 你必须要把这个内核拆解出来，把每一个字词的概念拆解出来，重新用现代的语言进行表述，这才能真正的破除古文关。
 
